@@ -7,7 +7,7 @@ function App() {
         <div className="animate__animated animate__fadeInUp animate__delay-3s">
           <div className="flex items-center gap-3 mb-6 bg-zinc-800 w-fit p-4 rounded-2xl">
             <img src={DataImage.HeroImage} alt="Hero Image" className="w-10 rounded-md" />
-            <q>Build with purpose, code with heart.🔥</q>
+            <q>Build with purpose, code with heart.</q>
           </div>
           <h1 className="text-4xl/tight font-bold mb-6">Hi, Saya Eka Wiratama</h1>
           <p className="text-base/loose mb-6 opacity-50">Saya mempunyai ketertarikan dalam bidang programming dan infrastruktur jaringan, terutama pada pembuatan website
@@ -28,7 +28,7 @@ function App() {
         <div className="xl:w-2/3 lg:w-3/4 w-full mx-auto p-7 bg-zinc-800 rounded-lg" data-aos="fade-up" data-aos-diration="1000" >
         <img src={DataImage.HeroImage} alt="Image"  className="w-12 rounded-md mb-10 sm:hidden" loading="lazy" />
           <p className="text-base/loose mb-10">
-            Hi, saya Eka Wiratama, seorang Full Stack Web Developer dengan pengalaman dalam membangun aplikasi web yang fungsional, responsif, dan efisien.
+            Hi, saya Eka Wiratama, seorang Web Developer dengan pengalaman dalam membangun aplikasi web yang fungsional, responsif, dan efisien.
             Selain pengembangan web, saya juga memiliki keahlian di bidang infrastruktur jaringan, termasuk konfigurasi Mikrotik, instalasi jaringan lokal (LAN), 
             dan manajemen jaringan nirkabel (Wi-Fi). Saya berkomitmen untuk memberikan solusi teknologi yang inovatif dan berkualitas tinggi, serta terus belajar dan berkembang dalam bidang ini.
           </p>
